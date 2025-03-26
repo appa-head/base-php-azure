@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/03523122-c512-45e9-ae83-c488521a0334/resourceGroups/SvensSandbox/providers/Microsoft.Web/sites/webAppMetdb",
+    "appService.deploySubpath": "."
+}
